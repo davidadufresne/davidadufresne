@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">A passionate frontend developer from Florida</h3>
+<h3 align="center">An Aspiring Frontend Developer From Florida</h3>
 
 
 <p align="left">
